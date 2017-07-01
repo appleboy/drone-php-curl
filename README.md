@@ -1,9 +1,5 @@
 # Example PHP Plugin
 
-php curl example for drone plugin.
-
-## drone plugin example
-
 This provides a brief tutorial for creating a Drone webhook plugin, using simple php scripting, to make an http requests during the build pipeline. The below example demonstrates how we might configure a webhook plugin in the Yaml file:
 
 ```yml
